@@ -2,12 +2,12 @@
 name: investment-value-assessment
 description: 给天使投资人、项目方和创业者用的项目投资价值评估工具。您把商业计划书（BP）或可行性研究报告交给它（PPT、Word、PDF 格式都可以），它会按一套自成体系的评估方法逐项检查：不是看赛道热不热、团队背景亮不亮，而是用 20 条投资负面清单反过来排除“不能投什么”——比如国家大力支持的项目不投、靠人力的农业项目不投、前沿高科技不投、纯互联网项目不投，只投“成熟技术结合市场需求的创新应用”。评估结果是一份 100 分制的分析报告：有总分、有一句话说清的结论，每条结论都能追溯到触犯了负面清单的哪一条，还能继续追问“为什么”。除项目本身外，还会连带评估推荐这个项目的人靠不靠谱、是不是伪科技包装、团队构成、产业位置、融资健康度等。适合：投资人筛项目、项目方送审前自查、创业服务机构做初步判断。触发词：项目评估、投资价值分析、评估一下这个项目、这个项目能投吗、BP 评估、商业计划书评估、负面清单比对、可行性研究报告评估、推荐人评估、伪科技识别。
 agent_created: true
-version: 1.3.0
+version: 1.3.1
 author: 天工创新坊
 license: CC BY 4.0
 display_name: "项目投资价值评估"
 display_name_en: Investment Value Assessment
-trigger: ["评估这个项目", "这个项目能投吗", "投资价值分析", "BP 评估", "商业计划书评估"]
+trigger: ["评估这个项目", "这个项目能投吗", "投资价值分析", "BP 评估", "商业计划书评估", "evaluate this project", "should I invest in this", "investment value analysis", "business plan review", "business plan assessment"]
 description_zh: "把商业计划书交给它，按一套反主流的天使投资评估法逐项体检：不看赛道热不热，先用 20 条负面清单排除“不能投什么”，只投成熟技术结合真实需求的应用。输出百分制报告，结论可溯源、可追问。"
 description_en: "Hand it a business plan and it runs a counter-mainstream angel-investment check: instead of asking how hot the sector is, it applies a 20-item negative list to rule out what not to invest in, backing only proven technology applied to real demand. Delivers a 100-point scored report with traceable, explainable conclusions."
 category: business
